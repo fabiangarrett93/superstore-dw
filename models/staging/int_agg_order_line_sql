@@ -1,4 +1,3 @@
-
 select
     order_id,
     count(order_line_id) as nr_of_order_lines,
